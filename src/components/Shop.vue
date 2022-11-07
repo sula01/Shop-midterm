@@ -1,6 +1,6 @@
 <template>
   <section class="content">
-    <h1 style="font-size: 50px; text-align: center;">Cat Shop</h1>
+    <h1 style="font-size: 50px; text-align: center;">Shop</h1>
     <div class="content__inner">
       <div v-if="!isLoading" class="items-list">
         <ShopItem 
